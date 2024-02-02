@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-title: About
+title: LogEntry1
 ---
 
 # Log Entry #1: Martians are Weird Little Guys
