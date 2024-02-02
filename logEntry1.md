@@ -1,3 +1,8 @@
+---
+layout: layout.liquid
+title: About
+---
+
 # Log Entry #1: Martians are Weird Little Guys
 
 So I arrive to Mars, excited, ready to meet some martians, and then the craziest thing happens to me, one of them speaks to me, but looking in reverse. I know it's really weird right. Like I'm trying to shake this little guys hand and I can't possibly find a non-awkward way to do it cause the little goober and turned fully around. And then, and this is the good part, the little guy starts speaking to me, WITHOUT LOOKING TOWARDS ME. Completley looking the other way, like and the guy went on for an hour about traffic on mars, how his dog (adorabley named a sa-mars-yed) leaves all its hair around the house, while completley faced away. I started to think maybe this was just one soically awkward guy, cause I get it, talking can be tough, but then, IT WAS THE FOOD TRUCK GUY, THE BUS DRIVER (which how is that safe), AND EVEN THE LITERAL KING OF MARS! I just, it was such culture shock. Luckily I didn't offend any of them (as they couldn't see me) but it was so weird I had to ask the King's vassel Tak-Tak 3. Tak Tak informed me the reason for talk like that is the martians wanted to start a peace program. Logn have the martians been a war mongering planet, but king Slartibartfast wanted to change that, so showing ones back to one another is the greatest sign of peace, compeltley letting your guard down among another. It's really sweet once you think about it, just the logistics of how one grabs a chili dog from a vender while facing away from them scares me to no end. Philip Arthur, Log....out.
