@@ -1,7 +1,7 @@
 body {
     font-family: Helvetica, sans-serif;
     color: #EAE8FF;
-    background: #2D3142;
+    background: rgb(19, 19, 92);
     padding: 0 40px;
     text-align: center;
 }
@@ -11,6 +11,7 @@ nav {
     width: 500px;
     border-radius: 50px;
     background: #212431;
+    border: 10px solid rgb(136, 99, 199);
 }
 
 nav ul {
@@ -38,11 +39,20 @@ h1 {
     letter-spacing: -2px;
 }
 
-h1 strong {
-    background: rgb(34,193,195);
-    background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+ h1 strong {
+    background: rgb(166, 135, 219);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-size: 3.5rem;
+}
+
+p strong {
+    background: rgb(166, 135, 219);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    font-size: 2.5rem;
 }
 
 img.about {
@@ -51,24 +61,61 @@ img.about {
 
 p {
     color: white;
-    font-size: 1.5rem;
+    background-color: #212431;
+    font-size: 1.6rem;
+    font-weight: bold;
     padding:10px;
-    background-color: rgb(100, 26, 100);
     border-radius: 20px;
-    border:5px solid rgb(136, 99, 199);
+    border:10px solid rgb(136, 99, 199);
 }
 
 .aboutText {
     padding:10px;
-    color:blueviolet;
-    font-size: 3rem;
-    border: 5px dashed white;
-    border-bottom-left-radius: 30px;
-    border-bottom-right-radius: 30px;
+    color:  white;
+    font-size: 2rem;
+    /*border: 5px solid  rgb(131, 222, 234);  */
+    border:5px solid rgb(136, 99, 199);
+    border-radius:30px;
     filter: drop-shadow(5, 10, white);
+    background-color: #212431;
+    font-weight: bold;
 }
 
 .indexText{
     font-size: 3rem;
     padding:10px;
+}
+
+.PhillipFirstName{
+    display:inline;
+}
+
+.PhillipLastName{
+    display:inline;
+}
+
+.footerDiv{
+    
+}
+
+.purpleShip{
+    width:auto;
+    height:auto;
+}
+
+.footer{
+    margin: auto;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+}
+
+.footerText{
+    background-color: #212431;
+    font-size: 3rem;
+    color:white;
+    border: 10px solid rgb(136, 99, 199); 
+    padding-right:20px;
+    padding-left: 20px;
+
 }
