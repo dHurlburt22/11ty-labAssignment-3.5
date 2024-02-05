@@ -3,10 +3,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("styles");
 
-  eleventyConfig.addShortcode("Phillip", function(firstName, lastName){
-    return `<div class="Phillip">
-      <div class="PhillipFirstName">${firstName}</div>
-      <div class="PhillipLastName">${lastName}</div>
-    </div>`;
+  eleventyConfig.addShortcode("Phillip", function(name){
+    return `<span>${name}</span>`;
   });
 };
